@@ -1,0 +1,25 @@
+{
+  "name": "monkey",
+  "version": "1.0.0",
+  "description": "monkey is develop for ui , both in web and mobile. it used for vue3+ts",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bfr-2151/monkey.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "typescript",
+    "ts",
+    "quasar"
+  ],
+  "author": 
+  {
+    "name": "monkeyDeveloper",
+    "email": "bfr2151@gmail.com"
+  },
+  "license": "ISC"
+}
